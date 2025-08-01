@@ -1,5 +1,5 @@
 body {
-    color: white;
+    color: purple;
     background: black;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
@@ -30,7 +30,7 @@ h1 {
 }
 
 p {
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .categoria-videos {
@@ -56,5 +56,5 @@ p {
 }
 
 .categoria h2 {
-    color: rgb(42, 122, 228);
+    color: rgb(82, 122, 228);
 }
